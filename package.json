@@ -1,0 +1,7 @@
+{
+    "name":"phonegap-build-api-demo",
+    "version":"0.0.1",
+    "dependencies":{
+        "phonegap-build-api-js":"git://github.com/phonegap/phonegap-build-api-js.git"
+    }
+}
